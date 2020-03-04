@@ -1,0 +1,8 @@
+D:\VSproject\发牌\发牌\bin\Debug\发牌.exe.config
+D:\VSproject\发牌\发牌\bin\Debug\发牌.exe
+D:\VSproject\发牌\发牌\bin\Debug\发牌.pdb
+D:\VSproject\发牌\发牌\obj\Debug\发牌.Form1.resources
+D:\VSproject\发牌\发牌\obj\Debug\发牌.Properties.Resources.resources
+D:\VSproject\发牌\发牌\obj\Debug\发牌.csproj.GenerateResource.Cache
+D:\VSproject\发牌\发牌\obj\Debug\发牌.exe
+D:\VSproject\发牌\发牌\obj\Debug\发牌.pdb
